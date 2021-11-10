@@ -1,0 +1,17 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "16.10.0"
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "Michael Dufek",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdufek660/hangman.git"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
